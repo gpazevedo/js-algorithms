@@ -1,6 +1,10 @@
-# Javascript Starter
+# Algorithms Excercises
 
-Boilerplate for ES Modules, Jest, ESLint Nodemon.
+Algorithms Excercises programmed in JS
+
+## String Manipulation
+
+[iso-form](./iso-form/) Grouping strings with similar letter structure.
 
 ## Development Workflow
 
