@@ -5,7 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "build": "babel src -d lib",
+    "build": "babel -d lib",
     "dev": "nodemon ",
     "test": "jest --config ./jest.config.json --watchAll",
     "test:coverage": "jest --config ./jest.config.json  --coverage || open coverage/lcov-report/index.js"
